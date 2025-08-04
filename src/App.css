@@ -12,7 +12,7 @@
   justify-content: center;
   position: relative;
   overflow: hidden;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: 'Bitcount Prop Single', monospace;
 }
 
 .background-animation {
@@ -68,6 +68,7 @@
   margin-bottom: 0.5rem;
   text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
   animation: subtleGlow 4s ease-in-out infinite alternate;
+  font-family: 'Luckiest Guy', cursive;
 }
 
 @keyframes subtleGlow {
@@ -79,6 +80,7 @@
   font-size: 1.1rem;
   color: rgba(180, 180, 180, 0.9);
   font-weight: 300;
+  font-family: 'Bitcount Prop Single', monospace;
 }
 
 .countdown {
@@ -115,6 +117,7 @@
   color: #e0e0e0;
   text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.7);
   margin-bottom: 0.3rem;
+  font-family: 'Luckiest Guy', cursive;
 }
 
 .time-label {
@@ -123,6 +126,7 @@
   font-weight: 400;
   text-transform: uppercase;
   letter-spacing: 0.5px;
+  font-family: 'Bitcount Prop Single', monospace;
 }
 
 .separator {
@@ -147,12 +151,14 @@
   margin-bottom: 0.3rem;
   font-weight: 500;
   text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.7);
+  font-family: 'Luckiest Guy', cursive;
 }
 
 .destination p {
   font-size: 1rem;
   color: rgba(140, 140, 140, 0.8);
   font-weight: 300;
+  font-family: 'Bitcount Prop Single', monospace;
 }
 
 .farewell-message {
@@ -168,6 +174,7 @@
   color: rgba(160, 160, 160, 0.9);
   font-weight: 300;
   font-style: italic;
+  font-family: 'Bitcount Prop Single', monospace;
 }
 
 .batman-symbols {
